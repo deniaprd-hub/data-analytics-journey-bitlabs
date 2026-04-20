@@ -12,3 +12,4 @@ Minggu ini berfokus pada proses penyiapan data (*Data Preparation*) menggunakan 
 ## 📈 Teknik Analisis
 - **Pivot Tables:** Digunakan untuk merangkum data karyawan, seperti mencari masa kerja terlama (39 tahun) dan distribusi gender.
 - **Formula Excel:** Menggunakan rumus perbandingan dan logika untuk validasi data operasional.
+<img width="437" height="795" alt="image" src="https://github.com/user-attachments/assets/81ffc287-e41b-4ad9-8756-60bf8569599d" />
